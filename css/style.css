@@ -662,3 +662,73 @@ footer{
     width: 100%;}
 
 /* ###  FIN FOOTER   #### */
+
+/* #### SIPAC DESARROLLO####*/
+
+
+.container0{
+    position: relative;
+    margin-top: -4.5%;
+    z-index: -1;
+    height: 100vh;
+    overflow-y: hidden;
+    background: #000;
+
+}
+.contsipac_all{
+  background: rgb(214, 17, 17);
+  width: 100%;
+  height: 100vh;
+  float: right; 
+  margin-top: 0;  
+}
+
+.wraping{
+    margin-top:10%;
+}
+.detail{
+    height: 2em;
+    width: 2em;
+    box-sizing: border-box;
+    background: #888888;
+    margin: 1em;
+}
+
+
+
+
+.sipac_all{
+  background: url(../images/sipac_video.mp4);
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+
+
+.logo_sipac_sipac{
+    background: url(../images/logosipacblanco.png) center no-repeat;
+    width: 90%;
+    height: 110em;
+    background-size: contain;
+    z-index: 9999;
+    position: absolute;
+    top: -105%;
+    left: 2%;
+}
+
+.video_sipac{
+    height: 1012px;
+    width: 1750px;
+    margin:0;
+    padding: 0;
+    position: relative;
+    margin-top: -85%;
+    left: -95%;
+    z-index: -111;
+
+}
+
+.pro__tittle2{
+    margin-top: 255%;
+
+}
